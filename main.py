@@ -8,3 +8,7 @@ push = str('git push origin HEAD:master')
 
 os.system(command)
 os.system(push)
+ # TODO
+git remote add origin git@github.com:pynvimdev/pygit.git
+git branch -M main
+git push -u origin main
