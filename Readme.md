@@ -11,4 +11,4 @@ script would automatically push code to github(as of now). Also requires github 
 ### Features
 ------------------------
 This project was created in 10 min and new features will be added with time.
-(Intenational Bug was created to remind me that I have to add a new features which is essential)
+
