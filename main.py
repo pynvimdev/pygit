@@ -9,6 +9,9 @@ push = str('git push origin HEAD:master')
 os.system(command)
 os.system(push)
  # TODO
+command2 = 'git remote add origin git@github.com:' + username + '/' + repo + '.git'
+os.system(command2)
+
 git remote add origin git@github.com:pynvimdev/pygit.git
-git branch -M main
-git push -u origin main
+os.system('git branch -M main')
+os.system('git push -u origin main')
