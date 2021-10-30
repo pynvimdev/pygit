@@ -12,4 +12,3 @@ script would automatically push code to github(as of now). Also requires github 
 ------------------------
 - Save auth to local machine
 - Encypt cached auth
-- Use PyInquirer and Colors
